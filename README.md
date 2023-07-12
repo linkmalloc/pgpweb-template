@@ -46,16 +46,14 @@
 
 ```bash
 # clone the repository
-git clone git@github.com:gethugothemes/influencer-hugo.git
+git clone git@github.com:linkmalloc/pgpweb-template.git
 
 # cd in the project directory
-$ cd influencer-hugo/exampleSite/
+$ cd pgpweb-template/exampleSite/
 
 # Start local dev server
 $ hugo server --themesDir ../..
 ```
-Or Check out [Full Documentation](https://docs.gethugothemes.com/influencer/?ref=github).
-
 
 ## ⚙️Deployment and hosting
 
@@ -71,22 +69,11 @@ issues](https://github.com/gethugothemes/influencer-hugo/issues). Someone may ha
 If your problem or idea has not been addressed yet, feel free to [open a new
 issue](https://github.com/gethugothemes/influencer-hugo/issues).
 
-## 📱Submit Your Website To Our Showcase
-
-Are you using Influencer Hugo theme? Submit it to our [showcase](https://gethugothemes.com/showcase). 
-
-Our showcase aims to demonstrate to the world what amazing websites people like you have created utilizing our Hugo themes and to show that Hugo has tremendous capabilities as a Static Site Generator. 
-
-View all the websites powered by Influencer Hugo from [here](https://gethugothemes.com/showcase?theme=influencer). 
-
-[Submit](https://gethugothemes.com/showcase?submit=show) your Influencer Hugo powered website.
-
-
 
 <!-- licence -->
 ## 📄License
-Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
-[Gethugothemes](https://gethugothemes.com)
+Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Initially Developed by
+[Gethugothemes](https://gethugothemes.com) & Customized and deployed by [Link Malloc Innovations, Inc.](https://linkmalloc.com)
 
 **Code License:** Released under the [MIT](https://github.com/gethugothemes/influencer-hugo/blob/master/LICENSE) license.
 
@@ -102,16 +89,3 @@ share those images.
 - [Slick Slider](https://kenwheeler.github.io/slic/)
 - [Google Fonts](https://fonts.google.com/)
 - [All Contributors](https://github.com/gethugothemes/influencer-hugo/graphs/contributors)
-
-
-## 👨‍💻Hire Us
-Besides developing unique, blazing-fast Hugo themes, we also provide customized services. We specialize in creating affordable, high-quality static websites based on Hugo. 
-
-If you need to customize the theme or complete website development from scratch, you can hire us. **Check Our 
-[services](https://gethugothemes.com/services/?utm_source=influencer_github&utm_medium=referral&utm_campaign=github_theme_readme)**
-
-<!-- premium themes -->
-## 💎Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png?)](https://gethugothemes.com/bundle/?utm_source=influencer_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Hargo](https://demo.gethugothemes.com/thumbnails/hargo.png)](https://gethugothemes.com/products/hargo/) | [![Logbook](https://demo.gethugothemes.com/thumbnails/logbook.png)](https://gethugothemes.com/products/logbook) |
-|:---:|:---:|:---:|
-| **Get 55+ Premium Hugo Themes Bundle** | **Hargo** | **Logbook** |
